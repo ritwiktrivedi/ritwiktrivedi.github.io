@@ -1,0 +1,14 @@
+If it shows U -> then it is an untracked file.
+If it shows A -> it has been added to the staging area.
+
+If it shows M -> then it has been modified after being added to staging.
+--> therefore it gets copied to the modified area.
+
+Note:
+Whenever we have doubt that we will need the current version 
+of our files as they are, we will commit. 
+
+The commit is a snapshot of the current version of our project.
+
+We also give an intuitive message to the commit so that we
+understand which changes we did in that commit.
